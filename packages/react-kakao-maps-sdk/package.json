@@ -1,21 +1,20 @@
 {
-  "name": "react-kakao-maps-sdk",
-  "version": "1.1.15",
-  "description": "React components for using kakao map api",
+  "name": "react-kakao-maps-test",
+  "version": "0.0.1",
+  "description": "Map Component except type definition",
   "license": "MIT",
   "author": {
-    "name": "JaeSeoKim",
-    "email": "devjaeseo@gmail.com",
-    "url": "https://about.jaeseokim.dev/"
+    "name": "in-ch",
+    "email": "sxin2949@naver.com"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/JaeSeoKim/react-kakao-maps-sdk.git",
+    "url": "https://github.com/in-ch/react-kakao-maps-sdk.git",
     "directory": "packages/react-kakao-maps-sdk"
   },
-  "homepage": "https://react-kakao-maps-sdk.jaeseokim.dev/",
+  "homepage": "https://github.com/in-ch/react-kakao-maps-sdk.git",
   "bugs": {
-    "url": "https://github.com/JaeSeoKim/react-kakao-maps-sdk/issues"
+    "url": "https://github.com/in-ch/react-kakao-maps-sdk.git/issues"
   },
   "keywords": [
     "react",
