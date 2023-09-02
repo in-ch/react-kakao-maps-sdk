@@ -223,7 +223,7 @@ export type MapComponent = <T extends React.ElementType = "div">(
  * > 컴포넌트 마운트 시점에 `useEffect` 를 활용하여, 특정 로직을 수행하고 싶은 경우 `ref` 객체를 사용하는 것보다
  * > `onCreate` 이벤트와 `useState`를 함께 활용하여 제어하는 것을 추천 드립니다.
  */
-export const Map: MapComponent = React.forwardRef(function Map<
+export const Map = React.forwardRef(function Map<
   T extends React.ElementType = "div",
 >(
   {
