@@ -1,3 +1,6 @@
+> 빌드 오류가 나와 fork해서 테스트해봅니다.
+> <code>MapComponent type</code>이 삭제됐기 때문에 실제 개발에서는 사용하면 안될 듯 합니다.
+
 <div align="center">
   <img src="https://raw.githubusercontent.com/JaeSeoKim/react-kakao-maps-sdk/main/docs/static/img/logo.png" width="128px"/>
   <h1>react-kakao-maps-sdk</h1>
@@ -112,7 +115,7 @@ function(){
 
 ### 맵위에 마커 클러스터 올리기
 
-> **※ 참고**: 해당 기능을 사용하기 위해서는 사용자는 반드시  `clusterer` library를 불러와야 합니다. 
+> **※ 참고**: 해당 기능을 사용하기 위해서는 사용자는 반드시 `clusterer` library를 불러와야 합니다.
 
 ```jsx live
 function(){
